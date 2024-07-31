@@ -1,0 +1,12 @@
+.img{
+    margin: 1em;
+    display: flex;
+  
+  }
+.input{
+    text-align: center;
+}
+  p{
+    margin-bottom: -1em;
+    margin:0.5em;
+  }
